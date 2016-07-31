@@ -7,3 +7,4 @@
 * Week 05 - [editor link](https://hackmd.io/JwMw7AzATAbFEFowEYAMIEBYAmnUICMAOAghIqAgUxjGAgGMjhMg)`[088, 153, 042, 202,049, 033, 122, 028, 100, 067, 138, 172]`
 * Week 06 - [editor link](https://hackmd.io/JwNgxgJghiIBwFo5QKaICzoOwDMECMUiCxhgAmHAVgGYYpyg)`[152, 017, 125, 179, 110, 118, 069, 079, 137, 029, 242, 012]`
 * Week 07 - [editor link](https://hackmd.io/GYJgDAxgzCCcCMBaAhgFgEbMasz0oBMBWVReI6ANnSkuAA4DYg==)`[235, 046, 127, 054, 019, 022, 056, 219, 142, 204, 096, 036]`
+* Week 08 - [editor link](https://hackmd.io/KwMwpgnGBsCGBMBaMxYUQFgBwEYAMiEEOYyGsARhbAOx72xZA===)`[147, 228, 165, 234, 200, 168, 065, 041, 072, 190, 091, 238]`
